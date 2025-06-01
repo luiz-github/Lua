@@ -30,8 +30,8 @@ Sistema focado na gestão de vendas e estoque para cantinas escolares, universit
 1. **Clone o repositório:**
 
    ```bash
-   git clone <url-do-repositório>
-   cd <nome-do-projeto>
+   git clone https://github.com/luiz-github/Lua
+   cd Lua
    ```
 
 2. **Configure as variáveis de ambiente:**
