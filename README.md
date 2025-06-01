@@ -1,4 +1,4 @@
-# SaaS de Vendas para Cantinas
+# Sistema de Vendas para Cantinas
 
 Sistema focado na gestão de vendas e estoque para cantinas escolares, universitárias e pequenas lanchonetes. O objetivo é proporcionar uma ferramenta simples, eficiente e moderna para o gerenciamento do dia a dia.
 
